@@ -10,6 +10,6 @@ public class SinglyLinkedListApp {
         myList.printNodes();
         myList.deleteById(7);
         myList.printNodes();
-
+        System.out.println("index of 3 : " +myList.indexOf(3));
     }
 }
