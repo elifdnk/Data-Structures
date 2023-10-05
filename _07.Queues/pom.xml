@@ -3,19 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.cydeo</groupId>
+        <artifactId>Data-Structures</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
 
-    <groupId>com.cydeo</groupId>
-    <artifactId>Data-Structures</artifactId>
-    <version>1.0-SNAPSHOT</version>
-    <packaging>pom</packaging>
-    <modules>
-        <module>_04.LinkedLists</module>
-        <module>_01.AlgorithmAnalysis</module>
-        <module>_02.CollectionsReview</module>
-        <module>_05.Stacks</module>
-        <module>_06.AlgorithmProblems</module>
-        <module>_07.Queues</module>
-    </modules>
+    <artifactId>_07.Queues</artifactId>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
