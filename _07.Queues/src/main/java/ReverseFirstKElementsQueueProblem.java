@@ -28,6 +28,8 @@ public class ReverseFirstKElementsQueueProblem {
             queue.enqueue(queue.dequeue());
         }
      return queue;
+
+
     }
 }
 /*
