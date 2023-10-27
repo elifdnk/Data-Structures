@@ -11,7 +11,7 @@
     <modules>
         <module>_04.LinkedLists</module>
         <module>_01.AlgorithmAnalysis</module>
-        <module>_02.CollectionsReview</module>
+        <module>_03.CollectionsReview</module>
         <module>_05.Stacks</module>
         <module>_06.AlgorithmProblems</module>
         <module>_07.Queues</module>
