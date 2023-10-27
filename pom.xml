@@ -16,6 +16,7 @@
         <module>_06.AlgorithmProblems</module>
         <module>_07.Queues</module>
         <module>_08.Trees</module>
+        <module>_09.Heap</module>
     </modules>
 
     <properties>
