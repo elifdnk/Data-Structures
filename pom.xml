@@ -18,6 +18,7 @@
         <module>_08.Trees</module>
         <module>_09.Heap</module>
         <module>_02.Arrays</module>
+        <module>_10.SearchAlgorithms</module>
     </modules>
 
     <properties>
